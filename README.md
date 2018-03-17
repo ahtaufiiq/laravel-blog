@@ -50,7 +50,7 @@ php artisan serve
 
 ## Authors
 
-* **Ahmad Taufiq** - *Backend* - [PurpleBooth](https://github.com/ataufiq123)
-* **Arya Wirasandi** - *Frontend* - [PurpleBooth](https://github.com/aryawirasandi)
+* **Ahmad Taufiq** - *Backend* - [Github](https://github.com/ataufiq123)
+* **Arya Wirasandi** - *Frontend* - [Github](https://github.com/aryawirasandi)
 
 
