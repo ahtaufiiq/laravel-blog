@@ -1,11 +1,13 @@
 # Project Title
 
 Built Blog using laravel 
-![Laravel Blog]()
+![Laravel Blog](laravel-blog.png)
 
-## Getting Started
+## Feature
 
-
+* Login and Register User
+* Only User can Create Post
+* Add Comment
 
 ### Prerequisites
 
